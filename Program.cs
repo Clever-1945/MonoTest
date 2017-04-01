@@ -11,10 +11,6 @@ namespace TestConsole
 
 			Console.WriteLine("Для выхода нажмите любую клавишу");
 			Console.ReadKey();
-			Console.ReadKey();
-			Console.ReadKey();
-			Console.ReadKey();
-			Console.ReadKey();
 		}
 	}
 }
